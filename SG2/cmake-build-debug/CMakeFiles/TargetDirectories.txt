@@ -1,0 +1,3 @@
+C:/Users/ayana/CLionProjects/SG2/cmake-build-debug/CMakeFiles/SG2.dir
+C:/Users/ayana/CLionProjects/SG2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayana/CLionProjects/SG2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
